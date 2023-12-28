@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alina Khan
 - 👀 I’m interested in Computational Linguistics and Machine Learning
 - 👯 I'm looking to collaborate on more open source projects
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning SQL and R
 - 📫 How to reach me: 📩alinak3@unc.edu
 
 <!---
